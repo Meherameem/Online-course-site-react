@@ -1,7 +1,10 @@
 .header{
-    margin:10px;
-    background-color: skyblue;
+    margin-left: 100px;
+    background-color: rgb(63, 59, 59);
+    width:70%;
+    color:white;
     border-radius: 20px;
+    
 }
 .cart-section{
     background-color:rgb(63, 59, 59);
