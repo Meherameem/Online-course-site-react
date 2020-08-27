@@ -1,0 +1,7 @@
+.card-display{
+    margin:10px;
+}
+.card-float{
+    display: flex;
+    flex-wrap: wrap;
+}

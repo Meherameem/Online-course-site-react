@@ -1,0 +1,12 @@
+.header{
+    margin:10px;
+    background-color: skyblue;
+    border-radius: 20px;
+}
+.cart-section{
+    background-color:rgb(63, 59, 59);
+    color:white;
+    border-radius:20px;
+    margin: 20px;
+    padding:20px;
+}
